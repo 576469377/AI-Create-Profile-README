@@ -1,0 +1,95 @@
+name: ❓ Help & Support
+description: Get help with using templates or general questions
+title: "[Help]: "
+labels: ["question", "help wanted"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Need help? We're here to assist! Please check our [Usage Guide](../USAGE.md) and [FAQ](../README.md#-troubleshooting--faq) first.
+
+  - type: dropdown
+    id: help-type
+    attributes:
+      label: Type of Help Needed
+      description: What kind of help do you need?
+      options:
+        - Template setup/installation
+        - Customization help
+        - Troubleshooting template issues
+        - Understanding GitHub features
+        - Template recommendation
+        - General question
+    validations:
+      required: true
+
+  - type: input
+    id: template-name
+    attributes:
+      label: Template Name (if applicable)
+      description: Which template are you having trouble with?
+      placeholder: e.g., "Tech Stack Showcase", "Clean Professional"
+
+  - type: textarea
+    id: question-description
+    attributes:
+      label: Question/Issue Description
+      description: Please describe your question or issue in detail
+      placeholder: |
+        - What are you trying to accomplish?
+        - What specific problem are you facing?
+        - What have you tried so far?
+    validations:
+      required: true
+
+  - type: textarea
+    id: current-setup
+    attributes:
+      label: Current Setup
+      description: Describe your current setup and what you've done so far
+      placeholder: |
+        - GitHub username: 
+        - Repository name:
+        - Template being used:
+        - Customizations made:
+
+  - type: checkboxes
+    id: documentation-checked
+    attributes:
+      label: Documentation Checked
+      description: Have you checked our documentation?
+      options:
+        - label: I've read the main README
+        - label: I've checked the Usage Guide
+        - label: I've looked at the FAQ section
+        - label: I've searched existing issues
+
+  - type: dropdown
+    id: experience-level
+    attributes:
+      label: Experience Level
+      description: How familiar are you with GitHub and Markdown?
+      options:
+        - Beginner - New to GitHub/Markdown
+        - Intermediate - Some experience
+        - Advanced - Very familiar
+    validations:
+      required: true
+
+  - type: textarea
+    id: error-messages
+    attributes:
+      label: Error Messages
+      description: If you're seeing any error messages, please paste them here
+      placeholder: Paste any error messages or unexpected behavior here
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Add any other context that might be helpful
+      placeholder: |
+        - Screenshots of the issue
+        - Links to your repository (if public)
+        - Operating system and browser
+        - Any other relevant information

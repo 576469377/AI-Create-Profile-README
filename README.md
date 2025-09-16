@@ -128,6 +128,18 @@ For the fastest setup, try our **Clean Professional** template:
 3. Replace placeholders with your info
 4. Commit and done!
 
+### 🤖 Automated Setup (Linux/macOS)
+Use our setup script for guided template installation:
+```bash
+# Clone this repository
+git clone https://github.com/576469377/AI-Create-Profile-README.git
+cd AI-Create-Profile-README
+
+# Run the setup script
+./setup.sh
+```
+The script will help you choose a template and automatically customize it with your information.
+
 > 📚 **Need more detailed instructions?** Check out our [Complete Usage Guide](./USAGE.md) for step-by-step tutorials, advanced customization, and troubleshooting.
 
 ---

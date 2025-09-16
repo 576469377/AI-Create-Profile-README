@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Usage Guide
+    url: https://github.com/576469377/AI-Create-Profile-README/blob/main/USAGE.md
+    about: Complete guide for using the templates
+  - name: 💬 GitHub Discussions
+    url: https://github.com/576469377/AI-Create-Profile-README/discussions
+    about: Ask questions and share ideas with the community
+  - name: 🤝 Contributing Guide
+    url: https://github.com/576469377/AI-Create-Profile-README/blob/main/CONTRIBUTING.md
+    about: Learn how to contribute to this project
