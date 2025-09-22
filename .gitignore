@@ -57,3 +57,5 @@ coverage/
 # Package manager lock files (keep them if you want)
 # package-lock.json
 # yarn.lock
+# Generated template previews
+template-previews/

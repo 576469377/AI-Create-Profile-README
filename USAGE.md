@@ -16,6 +16,32 @@ This guide provides detailed instructions for using the GitHub Profile README te
 - GitHub account
 - Basic understanding of Markdown (helpful but not required)
 
+### Quick Setup (Automated) ⚡
+
+The fastest way to get started is using our automated setup script:
+
+```bash
+# Interactive setup
+./setup.sh
+
+# Quick setup with preset
+./setup.sh --username=yourusername --preset=minimal
+
+# Advanced usage
+./setup.sh --username=yourusername --category=2 --template=1
+```
+
+**Available presets:**
+- `minimal` - Clean, professional appearance
+- `developer` - Technical, skill-focused
+- `creative` - Visually striking designs  
+- `gaming` - Fun, interactive elements
+- `business` - Corporate, professional
+- `animated` - Dynamic, interactive features
+- `statistics` - Data-heavy displays
+
+### Manual Setup (Step-by-Step) 📝
+
 ### Step 1: Create Profile Repository
 
 1. **Login to GitHub**: Go to [github.com](https://github.com) and sign in
@@ -163,6 +189,68 @@ Hidden content goes here...
 - Compare with original template code
 
 ### Advanced Troubleshooting
+
+#### Setup Script Issues
+**Problem**: Setup script fails or doesn't work
+**Solutions**:
+- Make sure script is executable: `chmod +x setup.sh`
+- Check you're in the right directory
+- Try running with bash directly: `bash setup.sh`
+- For non-interactive usage, use: `./setup.sh --help`
+
+#### External Service Issues  
+**Problem**: Badges, stats, or animations not loading
+**Solutions**:
+- Check service availability: `./check-services.sh`
+- Wait a few minutes and refresh (services may be temporarily down)
+- Use fallback content provided in templates
+- Consider switching to more reliable service alternatives
+
+#### Template Extraction Issues
+**Problem**: Setup script says "Template extraction failed"
+**Solutions**:
+- Verify template file contains proper \`\`\`markdown code blocks
+- Try manual extraction by copying content between markdown blocks
+- Check file permissions and ensure template file exists
+- Report the issue if template seems corrupted
+
+#### Git Configuration Issues
+**Problem**: Setup script can't get user name/email
+**Solutions**:
+- Set git config: `git config --global user.name "Your Name"`
+- Set git email: `git config --global user.email "your@email.com"`
+- Or manually edit the generated README.md file
+
+#### Setup Script Issues
+**Problem**: Setup script fails or doesn't work
+**Solutions**:
+- Make sure script is executable: `chmod +x setup.sh`
+- Check you're in the right directory
+- Try running with bash directly: `bash setup.sh`
+- For non-interactive usage, use: `./setup.sh --help`
+
+#### External Service Issues  
+**Problem**: Badges, stats, or animations not loading
+**Solutions**:
+- Check service availability: `./check-services.sh`
+- Wait a few minutes and refresh (services may be temporarily down)
+- Use fallback content provided in templates
+- Consider switching to more reliable service alternatives
+
+#### Template Extraction Issues
+**Problem**: Setup script says "Template extraction failed"
+**Solutions**:
+- Verify template file contains proper `​```markdown` code blocks
+- Try manual extraction by copying content between markdown blocks
+- Check file permissions and ensure template file exists
+- Report the issue if template seems corrupted
+
+#### Git Configuration Issues
+**Problem**: Setup script can't get user name/email
+**Solutions**:
+- Set git config: `git config --global user.name "Your Name"`
+- Set git email: `git config --global user.email "your@email.com"`
+- Or manually edit the generated README.md file
 
 #### External Service Issues
 ```markdown
