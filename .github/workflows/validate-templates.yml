@@ -1,0 +1,113 @@
+name: Template Validation and Quality Check
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  validate-templates:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up permissions
+      run: chmod +x ./validate-templates.sh ./setup.sh
+      
+    - name: Validate all templates
+      run: ./validate-templates.sh
+      
+    - name: Test setup script
+      run: |
+        echo "Testing setup script with automated input..."
+        # Test with minimalist category and first template
+        echo -e "testuser\n1\n1\n" | timeout 30 ./setup.sh || true
+        
+        # Check if output was generated
+        if [ -f "generated-profile/README.md" ]; then
+          echo "✅ Setup script generated output successfully"
+          echo "Generated template preview:"
+          head -20 generated-profile/README.md
+        else
+          echo "❌ Setup script failed to generate output"
+          exit 1
+        fi
+        
+    - name: Check template completeness
+      run: |
+        echo "Checking template coverage..."
+        
+        # Count documented vs actual templates
+        echo "📊 Template Coverage Report:"
+        
+        for category in templates/*/; do
+          if [ -d "$category" ]; then
+            category_name=$(basename "$category")
+            readme_file="$category/README.md"
+            
+            if [ -f "$readme_file" ]; then
+              documented=$(grep -o '\[.*\.md\]' "$readme_file" | wc -l)
+              actual=$(find "$category" -name "*.md" ! -name "README.md" | wc -l)
+              
+              echo "  $category_name: $actual/$documented templates implemented"
+              
+              if [ "$actual" -lt "$documented" ]; then
+                echo "    ⚠️  Missing templates in $category_name"
+              else
+                echo "    ✅ Complete coverage in $category_name"
+              fi
+            fi
+          fi
+        done
+        
+    - name: Check for sensitive information
+      run: |
+        echo "Checking for sensitive information..."
+        
+        # Check for potential sensitive data patterns
+        if grep -r -i "password\|secret\|token\|api_key" templates/ --exclude-dir=.git; then
+          echo "❌ Potential sensitive information found"
+          exit 1
+        else
+          echo "✅ No sensitive information detected"
+        fi
+        
+    - name: Generate validation report
+      if: always()
+      run: |
+        echo "📋 Validation Report Summary" > validation-report.md
+        echo "=========================" >> validation-report.md
+        echo "" >> validation-report.md
+        echo "- **Date**: $(date)" >> validation-report.md
+        echo "- **Commit**: ${{ github.sha }}" >> validation-report.md
+        echo "- **Total Templates**: $(find templates -name '*.md' ! -name 'README.md' | wc -l)" >> validation-report.md
+        echo "- **Categories**: $(find templates -maxdepth 1 -type d | grep -v '^templates$' | wc -l)" >> validation-report.md
+        echo "" >> validation-report.md
+        
+        echo "### Template Coverage by Category" >> validation-report.md
+        for category in templates/*/; do
+          if [ -d "$category" ]; then
+            category_name=$(basename "$category")
+            count=$(find "$category" -name "*.md" ! -name "README.md" | wc -l)
+            echo "- **$category_name**: $count templates" >> validation-report.md
+          fi
+        done
+        
+        echo "" >> validation-report.md
+        echo "### Validation Status" >> validation-report.md
+        if ./validate-templates.sh > /dev/null 2>&1; then
+          echo "✅ All templates passed validation" >> validation-report.md
+        else
+          echo "❌ Some templates failed validation" >> validation-report.md
+        fi
+        
+    - name: Upload validation report
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: validation-report
+        path: validation-report.md
