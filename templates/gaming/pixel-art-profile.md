@@ -107,7 +107,7 @@ BACKEND EQUIPMENT:
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=000000&title_color=00ff00&icon_color=ff6b6b&text_color=ffffff&border_color=00ff00&border_radius=0" alt="Player Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=000000&border=00ff00&stroke=00ff00&ring=ff6b6b&fire=ffff00&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffff00&dates=ffffff&border_radius=0" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&background=000000&border=00ff00&stroke=00ff00&ring=ff6b6b&fire=ffff00&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffff00&dates=ffffff&border_radius=0" alt="Streak Stats" />
 
 </div>
 

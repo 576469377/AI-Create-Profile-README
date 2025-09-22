@@ -697,11 +697,28 @@ We love seeing how the community uses and customizes these templates! Submit you
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+Using+Our+Templates!;Create+Something+Amazing!;Happy+Coding!;Make+Your+Profile+Shine!" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+Using+Our+Templates!;Create+Something+Amazing!;Happy+Coding!;Make+Your+Profile+Shine!" alt="Footer Typing SVG" />
   
   <br><br>
   
   **Made with ❤️ by the GitHub Community**
   
-  <sub>Last Updated: September 2024 | Templates: 15+ | Downloads: 1000+</sub>
+  <sub>Last Updated: September 2024 | Templates: 15+ | Downloads: 1000+ | Recently Enhanced: Service reliability & Setup automation</sub>
 </div>
+
+---
+
+## 🚀 Recent Improvements
+
+### ✅ September 2024 Updates
+- **🔧 Fixed deprecated services**: Migrated from Heroku to more reliable alternatives
+- **🛠️ Enhanced setup script**: Added non-interactive mode and better error handling  
+- **📊 Service monitoring**: Added health checks for external dependencies
+- **🔍 Quality improvements**: Enhanced template validation and optimization tools
+- **📱 Better usability**: Improved documentation and troubleshooting guides
+
+### 🔗 New Utility Scripts
+- `./setup.sh --help` - Interactive and automated template setup
+- `./check-services.sh` - Monitor external service availability  
+- `./fix-deprecated-services.sh` - Update service URLs across templates
+- `./validate-templates.sh` - Comprehensive template validation

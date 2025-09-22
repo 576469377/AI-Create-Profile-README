@@ -38,7 +38,7 @@ Detailed coding statistics and performance analytics that showcase your developm
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&line_height=27&custom_title=Comprehensive%20GitHub%20Statistics" alt="Detailed GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="Contribution Streak" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="Contribution Streak" />
 
 </div>
 

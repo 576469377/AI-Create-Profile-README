@@ -9,6 +9,9 @@ dist/
 build/
 out/
 
+# Generated profiles from setup script
+generated-profile/
+
 # Environment variables
 .env
 .env.local
@@ -41,6 +44,7 @@ tmp/
 temp/
 *.tmp
 *.temp
+*.bak
 
 # Cache
 .cache/

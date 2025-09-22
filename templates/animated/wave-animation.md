@@ -23,7 +23,7 @@ Smooth wave effects and transitions that create a flowing, dynamic profile exper
 
   ### I'm [Your Name] - A Wave Rider in the Ocean of Code 🏄‍♂️
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🌊+Surfing+through+lines+of+code;⚡+Creating+ripples+in+tech;🚀+Building+waves+of+innovation;💙+Flowing+with+creativity" alt="Wave Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🌊+Surfing+through+lines+of+code;⚡+Creating+ripples+in+tech;🚀+Building+waves+of+innovation;💙+Flowing+with+creativity" alt="Wave Typing" />
 
 </div>
 
@@ -64,7 +64,7 @@ Smooth wave effects and transitions that create a flowing, dynamic profile exper
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&bg_color=30,0f3460,0f3460&title_color=fff&icon_color=79ff97&text_color=fff&border_color=0,83a4d4,100,b6fbff" alt="Wave Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&background=30,0f3460,0f3460&border=83a4d4&stroke=b6fbff&ring=79ff97&fire=fff&currStreakLabel=fff" alt="Wave Streak" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&background=30,0f3460,0f3460&border=83a4d4&stroke=b6fbff&ring=79ff97&fire=fff&currStreakLabel=fff" alt="Wave Streak" />
 
 </div>
 
@@ -110,7 +110,7 @@ Smooth wave effects and transitions that create a flowing, dynamic profile exper
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Let's+create+waves+together!+🌊;Always+ready+for+the+next+adventure+🏄‍♂️;Collaboration+creates+the+biggest+waves+🚀" alt="Connect Wave" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Let's+create+waves+together!+🌊;Always+ready+for+the+next+adventure+🏄‍♂️;Collaboration+creates+the+biggest+waves+🚀" alt="Connect Wave" />
 
   <br><br>
 

@@ -21,7 +21,7 @@ Colorful gradient design that brings vibrant energy and creativity to your GitHu
 ### Hi there! I'm [Your Name] 
 ### A passionate developer who codes in full color! 🎨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🎨+Creating+digital+art+with+code;🌈+Painting+the+web+with+beautiful+experiences;✨+Bringing+ideas+to+life+in+vivid+colors;🚀+Building+the+future%2C+one+pixel+at+a+time" alt="Rainbow Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🎨+Creating+digital+art+with+code;🌈+Painting+the+web+with+beautiful+experiences;✨+Bringing+ideas+to+life+in+vivid+colors;🚀+Building+the+future%2C+one+pixel+at+a+time" alt="Rainbow Typing" />
 
 </div>
 
@@ -83,7 +83,7 @@ Colorful gradient design that brings vibrant energy and creativity to your GitHu
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&icon_color=fff&text_color=fff&border_color=fff&hide_border=true" alt="Rainbow Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&background=30,e96443,904e95&border=fff&stroke=fff&ring=fff&fire=fff&currStreakLabel=fff&hide_border=true" alt="Rainbow Streak" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&background=30,e96443,904e95&border=fff&stroke=fff&ring=fff&fire=fff&currStreakLabel=fff&hide_border=true" alt="Rainbow Streak" />
 
 </div>
 
@@ -343,7 +343,7 @@ const learningGoals2024 = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Let's+paint+the+web+together!+🎨;Ready+to+add+color+to+your+project%3F+🌈;Always+excited+to+collaborate!+✨" alt="Collaboration Message" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Let's+paint+the+web+together!+🎨;Ready+to+add+color+to+your+project%3F+🌈;Always+excited+to+collaborate!+✨" alt="Collaboration Message" />
 
 <br><br>
 
