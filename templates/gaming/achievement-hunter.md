@@ -248,7 +248,7 @@ Guild Ranking: #3 in [Company] Code Quality Score
 Achievement Score: 15,250 (Top 10% globally)
 
 Recent Victories:
-🥇 1st Place - Internal Hackathon 2024
+🥇 1st Place - Internal Hackathon 2025
 🥈 2nd Place - Open Source Contribution Contest
 🥉 3rd Place - Algorithm Challenge Monthly
 ```

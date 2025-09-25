@@ -174,19 +174,19 @@ timeline
          : React & JavaScript
          : First Internship
     
-    2020 : Backend Development
+    2021 : Backend Development
          : Node.js & Databases
          : Full Stack Projects
     
-    2021 : Professional Developer
+    2022 : Professional Developer
          : Joined [Company 1]
          : Microservices & Cloud
     
-    2022 : Senior Role
+    2023 : Senior Role
          : Team Leadership
          : Architecture Design
     
-    2023 : Current Focus
+    2024 : Current Focus
          : [Current Company]
          : Mentoring & Innovation
 ```
