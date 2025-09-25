@@ -131,7 +131,15 @@ Rust       ●●●●●○○○○○ 50%    ∘   •     ○
 ∘ • ○ ∘ • ○ SYSTEM STATS ○ • ∘ ○ • ∘
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=30,667eea,764ba2&title_color=fff&icon_color=fff&text_color=fff&border_color=00000000"
+<img src="https://github-readme-stats.vercel.app/api?
+        username=YOUR_USERNAME&
+        show_icons=true&
+        theme=tokyonight&
+        bg_color=30,667eea,764ba2&
+        title_color=fff&
+        icon_color=fff&
+        text_color=fff&
+        border_color=00000000"
     alt="Particle Stats" />
 
 <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&background=30,667eea,764ba2&border=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"

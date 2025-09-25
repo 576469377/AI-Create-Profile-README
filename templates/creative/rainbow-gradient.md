@@ -10,7 +10,9 @@ Colorful gradient design that brings vibrant energy and creativity to your GitHu
   <!-- Rainbow Gradient Header -->
   <img
     width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&
-    height=300&section=header&text=Welcome%20to%20My%20Colorful%20World&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Where%20creativity%20meets%20code&descAlignY=52&descAlign=50" />
+    
+height=300&section=header&text=Welcome%20to%20My%20Colorful%20World&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAl
+ignY=38&desc=Where%20creativity%20meets%20code&descAlignY=52&descAlign=50" />
 
 </div>
 
@@ -86,7 +88,16 @@ Colorful gradient design that brings vibrant energy and creativity to your GitHu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&icon_color=fff&text_color=fff&border_color=fff&hide_border=true"
+<img src="https://github-readme-stats.vercel.app/api?
+        username=YOUR_USERNAME&
+        show_icons=true&
+        theme=radical&
+        bg_color=30,e96443,904e95&
+        title_color=fff&
+        icon_color=fff&
+        text_color=fff&
+        border_color=fff&
+        hide_border=true"
     alt="Rainbow Stats" />
 
 <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&background=30,e96443,904e95&border=fff&stroke=fff&ring=fff&fire=fff&currStreakLabel=fff&hide_border=true"

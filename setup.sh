@@ -35,12 +35,18 @@ for arg in "$@"; do
             ;;
         --category=*)
             category="${arg#*=}"
+            non_interactive=true
             ;;
         --template=*)
             template="${arg#*=}"
+            non_interactive=true
             ;;
         --preset=*)
             preset="${arg#*=}"
+            non_interactive=true
+            ;;
+        --non-interactive)
+            non_interactive=true
             ;;
         --help|-h)
             echo "Usage: $0 [OPTIONS]"
@@ -50,13 +56,20 @@ for arg in "$@"; do
             echo "  --category=NUMBER      Template category (1-7)"
             echo "  --template=NUMBER      Template number within category"
             echo "  --preset=PRESET        Quick preset (minimal, developer, gaming, animated)"
+            echo "  --non-interactive      Skip interactive prompts"
             echo "  --help, -h             Show this help message"
             echo ""
             echo "Examples:"
             echo "  $0                                    # Interactive mode"
             echo "  $0 --username=john --preset=minimal  # Quick minimal setup"
             echo "  $0 --username=jane --category=2 --template=1  # Specific template"
+            echo "  $0 --username=john --non-interactive # Non-interactive mode"
             exit 0
+            ;;
+        *)
+            echo "❌ Unknown argument: $arg"
+            echo "Use --help for usage information."
+            exit 1
             ;;
     esac
 done
@@ -251,12 +264,17 @@ cp "$output_file" "$temp_file"
 # Replace placeholders
 sed "s/YOUR_USERNAME/$username/g" "$temp_file" > "$output_file"
 
-# Try to get git user info
-git_name=$(git config user.name 2>/dev/null || echo "$username")
+# Try to get git user info, but prefer provided username for display name
+if [ -n "$username" ]; then
+    display_name="$username"
+else
+    display_name=$(git config user.name 2>/dev/null || echo "Your Name")
+fi
+
 git_email=$(git config user.email 2>/dev/null || echo "")
 
-# Replace name placeholders
-sed -i.bak "s/\\[Your Name\\]/$git_name/g" "$output_file"
+# Replace name and username placeholders
+sed -i.bak "s/\\[Your Name\\]/$display_name/g" "$output_file"
 
 # Replace email placeholders if git email is available
 if [ -n "$git_email" ]; then

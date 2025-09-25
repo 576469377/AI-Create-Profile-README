@@ -66,7 +66,15 @@ Smooth wave effects and transitions that create a flowing, dynamic profile exper
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&bg_color=30,0f3460,0f3460&title_color=fff&icon_color=79ff97&text_color=fff&border_color=0,83a4d4,100,b6fbff"
+<img src="https://github-readme-stats.vercel.app/api?
+        username=YOUR_USERNAME&
+        show_icons=true&
+        theme=radical&
+        bg_color=30,0f3460,0f3460&
+        title_color=fff&
+        icon_color=79ff97&
+        text_color=fff&
+        border_color=0,83a4d4,100,b6fbff"
     alt="Wave Stats" />
 
 <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&background=30,0f3460,0f3460&border=83a4d4&stroke=b6fbff&ring=79ff97&fire=fff&currStreakLabel=fff" alt="Wave Streak" />

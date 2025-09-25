@@ -90,7 +90,14 @@ const developer = {
   
   <!-- Animated GitHub Stats -->
   <img
-    height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+    height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?
+        username=YOUR_USERNAME&
+        show_icons=true&
+        theme=tokyonight&
+        include_all_commits=true&
+        count_private=true&
+        hide_border=true&
+        bg_color=0D1117" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   
   <!-- Animated Streak Stats -->

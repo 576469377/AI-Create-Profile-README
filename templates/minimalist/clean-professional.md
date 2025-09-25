@@ -9,7 +9,8 @@ A simple, professional template perfect for corporate environments and professio
 
 ## About Me
 
-I'm a passionate developer focused on creating meaningful solutions through code. With a strong foundation in software development and a commitment to continuous learning, I strive to build applications that make a difference.
+I'm a passionate developer focused on creating meaningful solutions through code. With a strong foundation in software 
+development and a commitment to continuous learning, I strive to build applications that make a difference.
 
 ### What I Do
 - 💼 Software Developer at [Company Name]
@@ -78,4 +79,3 @@ I'm a passionate developer focused on creating meaningful solutions through code
 
 ---
 
-[← Back to Minimalist Templates](./README.md)

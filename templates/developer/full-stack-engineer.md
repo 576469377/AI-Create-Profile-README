@@ -131,7 +131,17 @@ deployment_strategy:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true&show_icons=true&icon_color=79ff97&title_color=fff&text_color=fff&bg_color=151515"
+<img src="https://github-readme-stats.vercel.app/api?
+        username=YOUR_USERNAME&
+        show_icons=true&
+        theme=radical&
+        hide_border=true&
+        count_private=true&
+        show_icons=true&
+        icon_color=79ff97&
+        title_color=fff&
+        text_color=fff&
+        bg_color=151515"
     alt="Full Stack Stats" />
 
 <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&background=151515&border=30363D&stroke=79ff97&ring=79ff97&fire=fff&currStreakLabel=fff" alt="Engineering Streak" />
