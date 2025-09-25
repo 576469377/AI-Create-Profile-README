@@ -8,7 +8,9 @@ Smooth wave effects and transitions that create a flowing, dynamic profile exper
 <div align="center">
 
   <!-- Animated Wave Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=300&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Riding%20the%20waves%20of%20innovation&descAlignY=51&descAlign=50" />
+  <img
+    width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&
+    height=300&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Riding%20the%20waves%20of%20innovation&descAlignY=51&descAlign=50" />
 
 </div>
 
@@ -23,7 +25,9 @@ Smooth wave effects and transitions that create a flowing, dynamic profile exper
 
   ### I'm [Your Name] - A Wave Rider in the Ocean of Code 🏄‍♂️
 
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🌊+Surfing+through+lines+of+code;⚡+Creating+ripples+in+tech;🚀+Building+waves+of+innovation;💙+Flowing+with+creativity" alt="Wave Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&
+    width=600&lines=🌊+Surfing+through+lines+of+code;⚡+Creating+ripples+in+tech;🚀+Building+waves+of+innovation;💙+Flowing+with+creativity"
+    alt="Wave Typing" />
 
 </div>
 
@@ -62,7 +66,8 @@ Smooth wave effects and transitions that create a flowing, dynamic profile exper
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&bg_color=30,0f3460,0f3460&title_color=fff&icon_color=79ff97&text_color=fff&border_color=0,83a4d4,100,b6fbff" alt="Wave Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&bg_color=30,0f3460,0f3460&title_color=fff&icon_color=79ff97&text_color=fff&border_color=0,83a4d4,100,b6fbff"
+    alt="Wave Stats" />
 
 <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&background=30,0f3460,0f3460&border=83a4d4&stroke=b6fbff&ring=79ff97&fire=fff&currStreakLabel=fff" alt="Wave Streak" />
 
@@ -74,7 +79,9 @@ Smooth wave effects and transitions that create a flowing, dynamic profile exper
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=20232a&hide_border=true&point=83a4d4&line=b6fbff&color=fff" width="100%" alt="Wave Activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=20232a&hide_border=true&point=83a4d4&line=b6fbff&color=fff"
+    width="100%"
+    alt="Wave Activity" />
 
 </div>
 
@@ -110,7 +117,9 @@ Smooth wave effects and transitions that create a flowing, dynamic profile exper
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Let's+create+waves+together!+🌊;Always+ready+for+the+next+adventure+🏄‍♂️;Collaboration+creates+the+biggest+waves+🚀" alt="Connect Wave" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&
+    width=600&lines=Let's+create+waves+together!+🌊;Always+ready+for+the+next+adventure+🏄‍♂️;Collaboration+creates+the+biggest+waves+🚀"
+    alt="Connect Wave" />
 
   <br><br>
 
@@ -134,7 +143,9 @@ Smooth wave effects and transitions that create a flowing, dynamic profile exper
 <div align="center">
 
   <!-- Animated Wave Footer -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b6fbff,100:83a4d4&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+  <img
+    width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b6fbff,100:83a4d4&
+    height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
 
   **🌊 "Life is like a wave - you can't change its direction, but you can learn to surf!" 🏄‍♂️**
 
@@ -222,4 +233,3 @@ Smooth wave effects and transitions that create a flowing, dynamic profile exper
 - Implement smooth scroll animations
 - Include wave-triggered counters
 
-This template creates a flowing, dynamic profile that captures the essence of waves through smooth animations and oceanic color schemes.

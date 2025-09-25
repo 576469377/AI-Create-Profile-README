@@ -221,9 +221,11 @@ Loot Gained: +Community Rep, +Collaboration Skills, +GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffd700&icon_color=ffd700&text_color=ffffff&border_color=444444" alt="Player Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffd700&icon_color=ffd700&text_color=ffffff&border_color=444444"
+    alt="Player Stats" />
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&background=0a0a0a&border=444444&stroke=ffd700&ring=ffd700&fire=ff6b6b&currStreakLabel=ffd700&sideNums=ffffff&currStreakNum=ffd700&dates=ffffff" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&background=0a0a0a&border=444444&stroke=ffd700&ring=ffd700&fire=ff6b6b&currStreakLabel=ffd700&sideNums=ffffff&currStreakNum=ffd700&dates=ffffff"
+    alt="Streak Stats" />
 
 </div>
 
@@ -354,4 +356,3 @@ Looking for:
 3. **XP System**: Point values for different accomplishments
 4. **Boss Fights**: Major challenges or project milestones
 
-This template gamifies your development journey, making your GitHub profile feel like an RPG character sheet that showcases your skills and achievements in an engaging, game-like format.

@@ -9,7 +9,9 @@ A role-playing game inspired profile that presents your skills and stats like an
 
 # ⚔️ CHARACTER PROFILE ⚔️
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Level+%5BYOUR_LEVEL%5D+Developer;Class%3A+Full+Stack+Wizard;Status%3A+Currently+Coding" alt="RPG Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FFD700&center=true&vCenter=true&
+    width=600&lines=Level+%5BYOUR_LEVEL%5D+Developer;Class%3A+Full+Stack+Wizard;Status%3A+Currently+Coding"
+    alt="RPG Typing" />
 
 </div>
 
@@ -290,4 +292,3 @@ Terraform      █████████████████████�
 
 ---
 
-[← Back to Gaming Templates](./README.md)

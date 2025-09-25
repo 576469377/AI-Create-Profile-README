@@ -36,9 +36,12 @@ Detailed coding statistics and performance analytics that showcase your developm
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&line_height=27&custom_title=Comprehensive%20GitHub%20Statistics" alt="Detailed GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&line_
+    height=27&custom_title=Comprehensive%20GitHub%20Statistics"
+    alt="Detailed GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="Contribution Streak" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7"
+    alt="Contribution Streak" />
 
 </div>
 
@@ -68,7 +71,8 @@ Detailed coding statistics and performance analytics that showcase your developm
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=12&exclude_repo=your-excluded-repo" alt="Language Statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=12&exclude_repo=your-excluded-repo"
+    alt="Language Statistics" />
 
 </div>
 
@@ -438,4 +442,3 @@ Detailed coding statistics and performance analytics that showcase your developm
 3. **Trends**: Show growth and improvement over time
 4. **Impact**: Connect metrics to business/team value
 
-This template is perfect for developers who want to showcase their analytical approach to coding and highlight their impact through concrete metrics and data-driven achievements.

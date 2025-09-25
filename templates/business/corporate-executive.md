@@ -171,7 +171,13 @@ Lead Time for Changes:  <2 days
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&include_all_commits=true&count_private=true&custom_title=Engineering%20Leadership%20Stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?
+        username=YOUR_USERNAME&
+        show_icons=true&
+        theme=default&
+        include_all_commits=true&
+        count_private=true&
+        custom_title=Engineering%20Leadership%20Stats)
 
 ![Organization Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&custom_title=Technical%20Leadership%20Focus)
 
@@ -299,4 +305,3 @@ Lead Time for Changes:  <2 days
 
 ---
 
-[← Back to Business Templates](./README.md)

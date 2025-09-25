@@ -10,7 +10,9 @@ A gaming-inspired developer profile with RPG-style skill progression and battle 
 # ⚔️ CODE WARRIOR ⚔️
 ## 🛡️ [Your Name] - Level [XX] Developer 🛡️
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Battling+Bugs+Since+20XX;Slaying+Code+Dragons;Building+Digital+Empires" alt="Warrior Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6B35&center=true&vCenter=true&
+    width=600&lines=Battling+Bugs+Since+20XX;Slaying+Code+Dragons;Building+Digital+Empires"
+    alt="Warrior Typing" />
 
 </div>
 
@@ -94,7 +96,8 @@ A gaming-inspired developer profile with RPG-style skill progression and battle 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=⚔️%20Battle%20Statistics"/>
+<img
+    height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=⚔️%20Battle%20Statistics"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&custom_title=🗡️%20Weapon%20Proficiency"/>
 
@@ -279,4 +282,3 @@ System Architecture  █████████████░░░░░░�
 
 ---
 
-[← Back to Gaming Templates](./README.md)

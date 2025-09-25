@@ -17,7 +17,9 @@ A futuristic cyberpunk-inspired profile with neon colors and digital aesthetics.
 ```
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+the+Matrix;I+am+%5BYOUR+NAME%5D;Full+Stack+Developer;Cyberpunk+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00FF41&center=true&vCenter=true&
+    width=600&lines=Welcome+to+the+Matrix;I+am+%5BYOUR+NAME%5D;Full+Stack+Developer;Cyberpunk+Enthusiast"
+    alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -265,4 +267,3 @@ Connection to cyberspace closed.
 
 ---
 
-[← Back to Creative Templates](./README.md)

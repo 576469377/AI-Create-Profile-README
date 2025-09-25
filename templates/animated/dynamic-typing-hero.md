@@ -8,10 +8,15 @@ A profile template featuring multiple dynamic typing animations and smooth trans
 <div align="center">
   
   <!-- Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Hello%20World!&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img
+    width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&
+    height=200&section=header&text=Hello%20World!&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
   
   <!-- Main Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+%5BYOUR+NAME%5D+👋;Full+Stack+Developer+💻;Open+Source+Enthusiast+🚀;Always+Learning+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&
+    width=600&
+    height=100&lines=Hi+there!+I'm+%5BYOUR+NAME%5D+👋;Full+Stack+Developer+💻;Open+Source+Enthusiast+🚀;Always+Learning+📚"
+    alt="Typing SVG" />
   
 </div>
 
@@ -84,7 +89,8 @@ const developer = {
 <div align="center">
   
   <!-- Animated GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img
+    height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   
   <!-- Animated Streak Stats -->
@@ -209,7 +215,9 @@ System Design         █████████████░░░░░░�
 <div align="center">
   
   <!-- Animated Connect Section -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=Let's+Connect!;Always+Open+to+Collaborate;Feel+Free+to+Reach+Out!" alt="Connect Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&
+    width=400&lines=Let's+Connect!;Always+Open+to+Collaborate;Feel+Free+to+Reach+Out!"
+    alt="Connect Typing" />
   
   <br/><br/>
   
@@ -232,7 +240,9 @@ System Design         █████████████░░░░░░�
   
   <!-- Fun Quote -->
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=F75C7E&center=true&vCenter=true&width=500&lines=✨+Code+is+poetry+written+in+logic+✨;🚀+Building+the+future%2C+one+commit+at+a+time+🚀;💡+Always+learning%2C+always+growing+💡" alt="Quote Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=F75C7E&center=true&vCenter=true&
+    width=500&lines=✨+Code+is+poetry+written+in+logic+✨;🚀+Building+the+future%2C+one+commit+at+a+time+🚀;💡+Always+learning%2C+always+growing+💡"
+    alt="Quote Typing" />
   
 </div>
 
@@ -337,4 +347,3 @@ System Design         █████████████░░░░░░�
 
 ---
 
-[← Back to Animated Templates](./README.md)
