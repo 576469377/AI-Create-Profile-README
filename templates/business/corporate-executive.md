@@ -19,7 +19,9 @@ A professional, executive-level profile perfect for senior developers and techni
 
 ## Executive Summary
 
-**Accomplished software engineering leader** with [X]+ years driving digital transformation and technical excellence across enterprise-scale organizations. Proven track record of building high-performing engineering teams, delivering complex software solutions, and aligning technology strategy with business objectives.
+**Accomplished software engineering leader** with [X]+ years driving digital transformation and technical excellence 
+across enterprise-scale organizations. Proven track record of building high-performing engineering teams, 
+delivering complex software solutions, and aligning technology strategy with business objectives.
 
 ### Key Achievements
 - 📈 **Scale Impact**: Led engineering teams of 25+ developers across 4 product lines
@@ -171,7 +173,13 @@ Lead Time for Changes:  <2 days
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&include_all_commits=true&count_private=true&custom_title=Engineering%20Leadership%20Stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?
+        username=YOUR_USERNAME&
+        show_icons=true&
+        theme=default&
+        include_all_commits=true&
+        count_private=true&
+        custom_title=Engineering%20Leadership%20Stats)
 
 ![Organization Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&custom_title=Technical%20Leadership%20Focus)
 
@@ -299,4 +307,3 @@ Lead Time for Changes:  <2 days
 
 ---
 
-[← Back to Business Templates](./README.md)

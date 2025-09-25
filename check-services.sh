@@ -24,12 +24,20 @@ check_service() {
     
     echo -n "  🌐 $service_name ($service_url): "
     
-    # Check with timeout
-    if curl -s --max-time 10 --head "https://$service_url" > /dev/null 2>&1; then
+    # Check with shorter timeout for faster execution
+    if curl -s --max-time 5 --connect-timeout 3 --head "https://$service_url" > /dev/null 2>&1; then
         echo "✅ Available"
         return 0
+    elif curl -s --max-time 5 --connect-timeout 3 --head "http://$service_url" > /dev/null 2>&1; then
+        echo "✅ Available (HTTP only)"
+        return 0
     else
-        echo "❌ Unavailable"
+        # Check if it's a network issue vs service issue
+        if ! curl -s --max-time 3 --connect-timeout 2 --head "https://www.google.com" > /dev/null 2>&1; then
+            echo "❌ Network Issue"
+        else
+            echo "❌ Service Down"
+        fi
         return 1
     fi
 }

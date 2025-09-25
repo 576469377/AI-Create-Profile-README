@@ -48,9 +48,30 @@ A comprehensive analytics-focused profile that presents your GitHub data like a 
 
 ### 🎯 Overall Performance Metrics
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=📊%20GitHub%20Statistics&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" />
+<img
+    height="200" src="https://github-readme-stats.vercel.app/api?
+        username=YOUR_USERNAME&
+        show_icons=true&
+        theme=github_dark&
+        include_all_commits=true&
+        count_private=true&
+        custom_title=📊%20GitHub%20Statistics&
+        hide_border=true&
+        bg_color=0d1117&
+        title_color=58a6ff&
+        text_color=c9d1d9&
+        icon_color=79c0ff" />
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&custom_title=💻%20Language%20Distribution&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img
+    height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?
+        username=YOUR_USERNAME&
+        layout=compact&
+        theme=github_dark&
+        custom_title=💻%20Language%20Distribution&
+        hide_border=true&
+        bg_color=0d1117&
+        title_color=58a6ff&
+        text_color=c9d1d9" />
 
 ### 🔥 Consistency & Streaks
 
@@ -413,4 +434,3 @@ Update Frequency: Daily at 00:00 UTC
 
 ---
 
-[← Back to Statistics Templates](./README.md)

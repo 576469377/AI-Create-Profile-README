@@ -13,7 +13,9 @@ A beautiful typography-centered design that emphasizes content readability and e
 
 ## Introduction
 
-Hello! I'm a passionate developer who believes that **beautiful code** should be matched by **beautiful presentation**. I focus on creating clean, readable, and maintainable software while paying attention to the details that make the difference.
+Hello! I'm a passionate developer who believes that **beautiful code** should be matched by **beautiful presentation**. 
+I focus on creating clean, readable, and maintainable software while paying attention to the details that make the 
+difference.
 
 ---
 
@@ -51,7 +53,8 @@ Figma, Adobe Creative Suite, Responsive Design, Accessibility Standards
 > *"The details are not the details. They make the design."*  
 > — Charles Eames
 
-I believe that great software is built through attention to detail, clear communication, and a deep understanding of user needs. Every line of code should serve a purpose, and every interface should feel intuitive.
+I believe that great software is built through attention to detail, clear communication, and a deep understanding of 
+user needs. Every line of code should serve a purpose, and every interface should feel intuitive.
 
 ---
 
@@ -146,4 +149,3 @@ I occasionally write about development practices, design patterns, and the inter
 
 ---
 
-[← Back to Minimalist Templates](./README.md)

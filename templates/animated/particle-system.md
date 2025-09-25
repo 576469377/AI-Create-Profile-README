@@ -8,7 +8,9 @@ Interactive particle animations that create a dynamic, modern profile experience
 <div align="center">
 
   <!-- Particle Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,100:764ba2&height=300&section=header&text=PARTICLE%20SYSTEM&fontSize=50&fontColor=ffffff&animation=scaleIn&fontAlignY=38&desc=Where%20code%20meets%20creativity&descAlignY=52&descAlign=50" />
+  <img
+    width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,100:764ba2&
+    height=300&section=header&text=PARTICLE%20SYSTEM&fontSize=50&fontColor=ffffff&animation=scaleIn&fontAlignY=38&desc=Where%20code%20meets%20creativity&descAlignY=52&descAlign=50" />
 
 </div>
 
@@ -17,7 +19,10 @@ Interactive particle animations that create a dynamic, modern profile experience
 <div align="center">
 
   <!-- Floating Particles Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=700&height=80&lines=✨+Creating+magic+with+particles;🌟+Coding+the+impossible;⚡+Innovating+pixel+by+pixel;🚀+Building+the+future" alt="Particle Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=667EEA&center=true&vCenter=true&
+    width=700&
+    height=80&lines=✨+Creating+magic+with+particles;🌟+Coding+the+impossible;⚡+Innovating+pixel+by+pixel;🚀+Building+the+future"
+    alt="Particle Text" />
 
   <!-- Particle Separator -->
   ```
@@ -126,9 +131,19 @@ Rust       ●●●●●○○○○○ 50%    ∘   •     ○
 ∘ • ○ ∘ • ○ SYSTEM STATS ○ • ∘ ○ • ∘
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=30,667eea,764ba2&title_color=fff&icon_color=fff&text_color=fff&border_color=00000000" alt="Particle Stats" />
+<img src="https://github-readme-stats.vercel.app/api?
+        username=YOUR_USERNAME&
+        show_icons=true&
+        theme=tokyonight&
+        bg_color=30,667eea,764ba2&
+        title_color=fff&
+        icon_color=fff&
+        text_color=fff&
+        border_color=00000000"
+    alt="Particle Stats" />
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&background=30,667eea,764ba2&border=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="Particle Streak" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&background=30,667eea,764ba2&border=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"
+    alt="Particle Streak" />
 
 </div>
 
@@ -189,7 +204,9 @@ Neural Networks: 3 behavior models trained
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=667eea&hide_border=true&point=ffffff&line=764ba2&color=ffffff" width="100%" alt="Particle Activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=667eea&hide_border=true&point=ffffff&line=764ba2&color=ffffff"
+    width="100%"
+    alt="Particle Activity" />
 
 </div>
 
@@ -231,7 +248,9 @@ Innovation Level: 🚀 Exponential 🚀
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Initiating+particle+connection...;Synchronizing+frequencies...;Connection+established!+✨;Let's+create+something+amazing!" alt="Connection" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1000&color=667EEA&center=true&vCenter=true&
+    width=600&lines=Initiating+particle+connection...;Synchronizing+frequencies...;Connection+established!+✨;Let's+create+something+amazing!"
+    alt="Connection" />
 
   <br><br>
 
@@ -259,7 +278,9 @@ Innovation Level: 🚀 Exponential 🚀
 <div align="center">
 
   <!-- Particle Footer -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:764ba2,100:667eea&height=200&section=footer&text=THANKS%20FOR%20VISITING&fontSize=35&fontColor=ffffff&animation=scaleIn&fontAlignY=65" />
+  <img
+    width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:764ba2,100:667eea&
+    height=200&section=footer&text=THANKS%20FOR%20VISITING&fontSize=35&fontColor=ffffff&animation=scaleIn&fontAlignY=65" />
 
   ```
   ✨ "In the end, we are all just particles in motion,
@@ -337,4 +358,3 @@ Innovation Level: 🚀 Exponential 🚀
 - Ensure sufficient color contrast
 - Consider motion-reduced preferences
 
-This template creates a modern, dynamic profile that visualizes your coding journey through the lens of particle physics and creative programming.

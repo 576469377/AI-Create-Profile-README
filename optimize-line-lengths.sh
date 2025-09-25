@@ -30,6 +30,9 @@ optimize_template() {
                 # For lines with URLs, try to break at logical points
                 echo "$line" | sed 's/&/\&\n    /g; s/?/?\n    /g' | head -1 >> "$temp_file"
                 echo "$line" | sed 's/&/\&\n    /g; s/?/?\n    /g' | tail -n +2 | sed 's/^/    /' >> "$temp_file"
+            elif [[ "$line" =~ ^[[:space:]]*[A-Za-z] ]] && [[ ! "$line" =~ ^\#|^\* ]]; then
+                # For regular text paragraphs, try to wrap at word boundaries
+                echo "$line" | fold -w 120 -s >> "$temp_file"
             else
                 # For other long lines, keep as-is but warn
                 echo "    ⚠️  Long line detected (${line_length} chars) but cannot auto-fix"
@@ -63,13 +66,14 @@ total_optimized=0
 
 echo "🔍 Scanning template files..."
 
-find templates -name "*.md" -type f | while read -r template_file; do
+# Use process substitution to avoid subshell and variable scope issues
+while IFS= read -r template_file; do
     # Skip README files in category directories  
     if [[ $(basename "$template_file") != "README.md" ]]; then
         optimize_template "$template_file"
         ((total_processed++))
     fi
-done
+done < <(find templates -name "*.md" -type f)
 
 echo ""
 echo "📊 Summary:"
