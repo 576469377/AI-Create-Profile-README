@@ -79,10 +79,10 @@ A nostalgic arcade-style profile with classic gaming aesthetics and 8-bit charm.
 ```
 
 ![Achievement](https://img.shields.io/badge/🏆_First_Commit-1985-gold?style=flat-square)
-![Achievement](https://img.shields.io/badge/🏆_1000_Commits-2020-gold?style=flat-square)
-![Achievement](https://img.shields.io/badge/🏆_Bug_Slayer-2021-red?style=flat-square)
-![Achievement](https://img.shields.io/badge/🏆_Team_Lead-2022-blue?style=flat-square)
-![Achievement](https://img.shields.io/badge/🏆_Mentor-2023-green?style=flat-square)
+![Achievement](https://img.shields.io/badge/🏆_1000_Commits-2021-gold?style=flat-square)
+![Achievement](https://img.shields.io/badge/🏆_Bug_Slayer-2022-red?style=flat-square)
+![Achievement](https://img.shields.io/badge/🏆_Team_Lead-2023-blue?style=flat-square)
+![Achievement](https://img.shields.io/badge/🏆_Mentor-2024-green?style=flat-square)
 
 </div>
 

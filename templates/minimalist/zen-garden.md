@@ -162,7 +162,7 @@ Continuous Learning    ███████████  95%
 ## 🌸 Seasonal Learning Goals
 
 ```
-🌱 Current Season: Spring 2024
+🌱 Current Season: Winter 2025
    ├── 🎯 Master: Advanced React patterns
    ├── 🌿 Explore: Machine learning fundamentals  
    ├── 🤝 Practice: Technical leadership skills
