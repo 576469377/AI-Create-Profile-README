@@ -10,7 +10,7 @@ A gaming-inspired developer profile with RPG-style skill progression and battle 
 # ⚔️ CODE WARRIOR ⚔️
 ## 🛡️ [Your Name] - Level [XX] Developer 🛡️
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Battling+Bugs+Since+20XX;Slaying+Code+Dragons;Building+Digital+Empires" alt="Warrior Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Battling+Bugs+Since+20XX;Slaying+Code+Dragons;Building+Digital+Empires" alt="Warrior Typing" />
 
 </div>
 
@@ -98,7 +98,7 @@ A gaming-inspired developer profile with RPG-style skill progression and battle 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&custom_title=🗡️%20Weapon%20Proficiency"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="Battle Streak" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="Battle Streak" />
 
 </div>
 

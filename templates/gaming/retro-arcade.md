@@ -137,7 +137,7 @@ A nostalgic arcade-style profile with classic gaming aesthetics and 8-bit charm.
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=synthwave&hide_border=true&bg_color=0a0e1a&title_color=ff6b9d&text_color=ffffff&icon_color=ffd93d" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=synthwave&hide_border=true&background=0a0e1a&ring=ff6b9d&fire=ffd93d&currStreakLabel=ffffff" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=synthwave&hide_border=true&background=0a0e1a&ring=ff6b9d&fire=ffd93d&currStreakLabel=ffffff" />
 
 </div>
 

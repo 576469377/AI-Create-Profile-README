@@ -9,7 +9,7 @@ A role-playing game inspired profile that presents your skills and stats like an
 
 # ⚔️ CHARACTER PROFILE ⚔️
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Level+%5BYOUR_LEVEL%5D+Developer;Class%3A+Full+Stack+Wizard;Status%3A+Currently+Coding" alt="RPG Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Level+%5BYOUR_LEVEL%5D+Developer;Class%3A+Full+Stack+Wizard;Status%3A+Currently+Coding" alt="RPG Typing" />
 
 </div>
 
@@ -205,7 +205,7 @@ Terraform      █████████████████████�
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=1A1B27" alt="Coding Streak" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=1A1B27" alt="Coding Streak" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&row=2&column=3&margin-h=8&margin-w=8&no-bg=false&no-frame=false" alt="GitHub Trophies" />
 

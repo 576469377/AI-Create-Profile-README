@@ -17,7 +17,7 @@ A futuristic cyberpunk-inspired profile with neon colors and digital aesthetics.
 ```
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+the+Matrix;I+am+%5BYOUR+NAME%5D;Full+Stack+Developer;Cyberpunk+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+the+Matrix;I+am+%5BYOUR+NAME%5D;Full+Stack+Developer;Cyberpunk+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -99,7 +99,7 @@ A futuristic cyberpunk-inspired profile with neon colors and digital aesthetics.
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&border_color=00FF41&bg_color=0D1117&title_color=00FF41&icon_color=00D4FF&text_color=FFFFFF" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&border=00FF41&background=0D1117&ring=00D4FF&fire=FF073A&currStreakLabel=00FF41" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=chartreuse-dark&border=00FF41&background=0D1117&ring=00D4FF&fire=FF073A&currStreakLabel=00FF41" />
 
 </div>
 

@@ -20,7 +20,7 @@ Falling code animation effect inspired by the iconic Matrix digital rain.
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=60&lines=Wake+up%2C+Neo...+The+Matrix+has+you...;Following+the+white+rabbit+of+code...;There+is+no+spoon%2C+only+algorithms...;Red+pill+or+blue+pill%3F+I+choose+both!;The+code+is+calling..." alt="Matrix Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=60&lines=Wake+up%2C+Neo...+The+Matrix+has+you...;Following+the+white+rabbit+of+code...;There+is+no+spoon%2C+only+algorithms...;Red+pill+or+blue+pill%3F+I+choose+both!;The+code+is+calling..." alt="Matrix Typing" />
 
 </div>
 
@@ -117,7 +117,7 @@ DECRYPTING DATA STREAMS...
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00&border_color=00ff00&hide_border=false" alt="Matrix Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&background=000000&border=00ff00&stroke=00ff00&ring=00ff00&fire=ffffff&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=ffffff&dates=00ff00" alt="Matrix Streak" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=chartreuse-dark&background=000000&border=00ff00&stroke=00ff00&ring=00ff00&fire=ffffff&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=ffffff&dates=00ff00" alt="Matrix Streak" />
 
 </div>
 
@@ -200,7 +200,7 @@ PROGRESS: [███████████████████░] 95%
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Initiating+secure+connection...;Bypassing+firewall+protocols...;Connection+established.+Welcome.;Ready+to+jack+into+the+Matrix?" alt="Connection" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Initiating+secure+connection...;Bypassing+firewall+protocols...;Connection+established.+Welcome.;Ready+to+jack+into+the+Matrix?" alt="Connection" />
 
   <br><br>
 

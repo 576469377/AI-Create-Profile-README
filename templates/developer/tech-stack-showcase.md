@@ -72,7 +72,7 @@ A comprehensive template for developers who want to showcase their complete tech
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="YOUR_USERNAME" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" alt="YOUR_USERNAME" />
 </div>
 
 ---

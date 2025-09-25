@@ -17,7 +17,7 @@ Interactive particle animations that create a dynamic, modern profile experience
 <div align="center">
 
   <!-- Floating Particles Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=700&height=80&lines=✨+Creating+magic+with+particles;🌟+Coding+the+impossible;⚡+Innovating+pixel+by+pixel;🚀+Building+the+future" alt="Particle Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=700&height=80&lines=✨+Creating+magic+with+particles;🌟+Coding+the+impossible;⚡+Innovating+pixel+by+pixel;🚀+Building+the+future" alt="Particle Text" />
 
   <!-- Particle Separator -->
   ```
@@ -128,7 +128,7 @@ Rust       ●●●●●○○○○○ 50%    ∘   •     ○
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=30,667eea,764ba2&title_color=fff&icon_color=fff&text_color=fff&border_color=00000000" alt="Particle Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&background=30,667eea,764ba2&border=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="Particle Streak" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&background=30,667eea,764ba2&border=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="Particle Streak" />
 
 </div>
 
@@ -231,7 +231,7 @@ Innovation Level: 🚀 Exponential 🚀
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Initiating+particle+connection...;Synchronizing+frequencies...;Connection+established!+✨;Let's+create+something+amazing!" alt="Connection" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Initiating+particle+connection...;Synchronizing+frequencies...;Connection+established!+✨;Let's+create+something+amazing!" alt="Connection" />
 
   <br><br>
 
