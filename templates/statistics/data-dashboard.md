@@ -24,7 +24,7 @@ A comprehensive analytics-focused profile that presents your GitHub data like a 
       <img src="https://img.shields.io/badge/Public_Repos-42-green?style=for-the-badge&logo=github" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Contributions_2023-1,234-purple?style=for-the-badge&logo=github" />
+      <img src="https://img.shields.io/badge/Contributions_2024-1,234-purple?style=for-the-badge&logo=github" />
     </td>
   </tr>
   <tr>
@@ -173,12 +173,12 @@ Hourly Distribution:
 
 | Month | Commits | PRs | Issues | Stars Earned |
 |-------|---------|-----|--------|-------------|
-| Jan 2023 | 187 | 23 | 12 | 45 |
-| Feb 2023 | 164 | 19 | 8 | 38 |
-| Mar 2023 | 203 | 31 | 15 | 67 |
-| Apr 2023 | 178 | 25 | 11 | 52 |
-| May 2023 | 195 | 28 | 14 | 61 |
-| Jun 2023 | 156 | 21 | 9 | 43 |
+| Jan 2024 | 187 | 23 | 12 | 45 |
+| Feb 2024 | 164 | 19 | 8 | 38 |
+| Mar 2024 | 203 | 31 | 15 | 67 |
+| Apr 2024 | 178 | 25 | 11 | 52 |
+| May 2024 | 195 | 28 | 14 | 61 |
+| Jun 2024 | 156 | 21 | 9 | 43 |
 
 </div>
 
@@ -316,7 +316,7 @@ Recent CI/CD Performance:
 ### 🏆 Annual Achievements
 
 ```
-2023 Goals Progress:
+2024 Goals Progress:
 ████████████████████████████████████████ 85% Complete
 
 ✅ Published 12 blog posts

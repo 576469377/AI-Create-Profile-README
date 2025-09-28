@@ -189,7 +189,7 @@ Lead Time for Changes:  <2 days
 
 ## Strategic Vision & Goals
 
-### 🎯 Current Initiatives (2023-2024)
+### 🎯 Current Initiatives (2024-2025)
 - **Platform Modernization**: Leading $[X]M cloud migration initiative
 - **Team Scaling**: Growing engineering organization by [X]% while maintaining quality
 - **Innovation Pipeline**: Establishing next-generation product development process
